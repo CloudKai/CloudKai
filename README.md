@@ -7,8 +7,8 @@
 ## About me
 
 - 🎓 Computer Science at the **National University of Singapore**, focusing on **Networks, Cybersecurity and AI**
-- 🔭 Recently built: an access-control layer for autonomous AI agents, a study-notes app, and a trip planner
-- 💬 Ask me about: TypeScript, mobile apps, AI chatbots, agent security
+- 🔭 Recently built: a study-notes app, a trip planner, and an AI energy coach
+- 💬 Ask me about: TypeScript, mobile apps, AI chatbots, cybersecurity
 - 📫 Reach me: [kaiming_01@live.com](mailto:kaiming_01@live.com)
 
 ## Tech stack
@@ -21,11 +21,11 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [NawGate](https://github.com/CloudKai/NawGate) | TikTok TechJam 2026 entry. Backend-enforced delegated access for autonomous AI agents, keeping human, agent and run authority separate. | TypeScript, Fastify |
 | [secondBrain](https://github.com/CloudKai/secondBrain) | Study library that turns articles, PDFs and video transcripts into cited notes and a topic graph. | TypeScript, Python |
-| [mobile](https://github.com/CloudKai/mobile) | Expo mobile client for Second Brain: share a link in, get a summary and diagram out. | TypeScript, Expo |
 | [WhereToVisit](https://github.com/CloudKai/WhereToVisit) | Search a city, see recommended places, then plan a multi-day trip with maps and friend voting. ([live](https://wheretovisit.vercel.app)) | TypeScript, Next.js |
 | [NUS-Codesign-Chatbot](https://github.com/CloudKai/NUS-Codesign-Chatbot) | Critical-thinking coach chatbot for university students, with Cognito login. | Python, FastAPI, Streamlit |
+| [405-main](https://github.com/CloudKai/405-main) | AI energy coach from Hackomania: upload smart-meter data to see usage patterns, spikes and habit tips. ([live](https://405-main.vercel.app)) | TypeScript, Next.js, OpenAI |
+| [GoldenAtlas](https://github.com/CloudKai/GoldenAtlas) | Private visual travel diary on a world map (prototype, local-first Supabase backend). | TypeScript, Vite, Supabase |
 | [DailyEmote](https://github.com/CloudKai/DailyEmote) | Android mobile app built with Expo and Firebase. | TypeScript, React Native |
 
 ## Also contributed to
